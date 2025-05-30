@@ -6,7 +6,7 @@ import time
 # GitHub API配置
 BASE_URL = "https://api.github.com"
 REPO = "OpenZeppelin/openzeppelin-contracts"
-TOKEN = "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"
+TOKEN = "YOUR_GITHUB_TOKEN"
 
 headers = {
     "Authorization": f"token {TOKEN}",

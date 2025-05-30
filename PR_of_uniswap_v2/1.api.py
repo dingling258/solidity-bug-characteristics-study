@@ -8,7 +8,7 @@ from datetime import datetime
 # GitHub API相关参数
 REPO_OWNER = 'Uniswap'
 REPO_NAME = 'v2-core'
-GITHUB_TOKEN = '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'  # 如果有的话，可以提高API限制
+GITHUB_TOKEN = 'YOUR_GITHUB_TOKEN'  # 如果有的话，可以提高API限制
 
 # 输出路径
 OUTPUT_DIR = 'D:\\paper\\issues_of_uniswap_v2'

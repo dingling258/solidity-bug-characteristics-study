@@ -9,7 +9,7 @@ from datetime import datetime
 # GitHub API相关参数
 REPO_OWNER = 'OpenZeppelin'
 REPO_NAME = 'openzeppelin-contracts'
-GITHUB_TOKEN = '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'
+GITHUB_TOKEN = 'YOUR_GITHUB_TOKEN'
 
 # 输出路径
 OUTPUT_DIR = 'D:\\paper\\PR_of_openzeppelin'

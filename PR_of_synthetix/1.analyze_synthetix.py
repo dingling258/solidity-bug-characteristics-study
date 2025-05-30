@@ -9,7 +9,7 @@ from datetime import datetime
 # GitHub API相关参数
 REPO_OWNER = 'Synthetixio'  # 修改为Synthetixio
 REPO_NAME = 'synthetix'  # 修改为synthetix
-GITHUB_TOKEN = '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'
+GITHUB_TOKEN = 'YOUR_GITHUB_TOKEN'
 
 # 输出路径
 OUTPUT_DIR = 'D:\\paper\\issues_of_synthetix'  # 修改为synthetix的目录
