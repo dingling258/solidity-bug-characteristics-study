@@ -1,0 +1,122 @@
+{
+  "generated_at": "2025-03-15 17:40:34",
+  "statistics": {
+    "total_issues": 541,
+    "bug_related": 307,
+    "bug_percentage": 56.75,
+    "dasp_distribution": {
+      "未分类": 192,
+      "算术问题": 50,
+      "访问控制问题": 19,
+      "操纵区块时间戳": 15,
+      "未知函数调用": 9,
+      "拒绝服务": 9,
+      "未检查的返回值": 6,
+      "错误的构造器命名": 3,
+      "重入攻击": 3,
+      "默认可见性": 1
+    },
+    "contract_analysis": {
+      "ERC20": {
+        "total": 37,
+        "bugs": 21,
+        "percentage": 56.76
+      },
+      "ERC721": {
+        "total": 28,
+        "bugs": 11,
+        "percentage": 39.29
+      },
+      "ERC1155": {
+        "total": 7,
+        "bugs": 2,
+        "percentage": 28.57
+      },
+      "SAFEMATH": {
+        "total": 6,
+        "bugs": 4,
+        "percentage": 66.67
+      },
+      "ACCESSCONTROL": {
+        "total": 4,
+        "bugs": 4,
+        "percentage": 100.0
+      },
+      "GOVERNOR": {
+        "total": 12,
+        "bugs": 5,
+        "percentage": 41.67
+      },
+      "OWNABLE": {
+        "total": 5,
+        "bugs": 5,
+        "percentage": 100.0
+      },
+      "PROXY": {
+        "total": 4,
+        "bugs": 3,
+        "percentage": 75.0
+      }
+    },
+    "confidence_distribution": {
+      "high_confidence": 20,
+      "medium_confidence": 15,
+      "low_confidence": 272
+    }
+  },
+  "typical_cases": {
+    "重入攻击": {
+      "number": 2483,
+      "title": "Fix ERC777 potential reentrancy issues",
+      "confidence": 1.5
+    },
+    "未知函数调用": {
+      "number": 2852,
+      "title": "Fix EIP712 for delegatecalls",
+      "confidence": 2.5
+    },
+    "未分类": {
+      "number": 3404,
+      "title": "Bug in MainNet ERC20",
+      "confidence": 1.0
+    },
+    "拒绝服务": {
+      "number": 1549,
+      "title": "ERC721 bugfix + gas optimizations",
+      "confidence": 2.0
+    },
+    "算术问题": {
+      "number": 725,
+      "title": "Fixed point multiplication and division functions in SafeMath",
+      "confidence": 5.0
+    },
+    "错误的构造器命名": {
+      "number": 2448,
+      "title": "Bug in ERC20PresetMinterPauserUpgradeable - symbol is not initialized",
+      "confidence": 3.0
+    },
+    "操纵区块时间戳": {
+      "number": 4046,
+      "title": "Fix flaky timestamp tests ",
+      "confidence": 2.5
+    },
+    "访问控制问题": {
+      "number": 323,
+      "title": "Fix/ownable error - Silent transferOwnership Failure",
+      "confidence": 3.5
+    },
+    "默认可见性": {
+      "number": 4483,
+      "title": "#fixes Some modifiers could use internal functions to reduce code size impact ",
+      "confidence": 1.5
+    },
+    "未检查的返回值": {
+      "number": 4179,
+      "title": "Make sendValue suggest a fix on revert",
+      "confidence": 1.5
+    }
+  },
+  "time_trends": {
+    "error": "没有找到创建日期列"
+  }
+}

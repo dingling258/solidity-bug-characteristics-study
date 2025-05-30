@@ -1,0 +1,54 @@
+[
+  {
+    "number": 29,
+    "title": "Updates TokenDistributor for AIP-2",
+    "url": "https://api.github.com/repos/aave/aave-protocol/pulls/29",
+    "html_url": "https://github.com/aave/aave-protocol/pull/29",
+    "state": "closed",
+    "created_at": "2020-11-16T08:18:21Z",
+    "merged_at": "2020-11-16T10:44:38Z",
+    "user": {
+      "login": "The-3D"
+    },
+    "labels": []
+  },
+  {
+    "number": 28,
+    "title": "Updates repayment on behalf behavior to allow smoother transition between V1 and V2",
+    "url": "https://api.github.com/repos/aave/aave-protocol/pulls/28",
+    "html_url": "https://github.com/aave/aave-protocol/pull/28",
+    "state": "closed",
+    "created_at": "2020-11-11T13:59:06Z",
+    "merged_at": "2020-11-11T16:08:40Z",
+    "user": {
+      "login": "The-3D"
+    },
+    "labels": []
+  },
+  {
+    "number": 27,
+    "title": "Updated LendingPoolCore to the current deployed version",
+    "url": "https://api.github.com/repos/aave/aave-protocol/pulls/27",
+    "html_url": "https://github.com/aave/aave-protocol/pull/27",
+    "state": "closed",
+    "created_at": "2020-11-11T13:09:55Z",
+    "merged_at": "2020-11-11T13:15:34Z",
+    "user": {
+      "login": "The-3D"
+    },
+    "labels": []
+  },
+  {
+    "number": 1,
+    "title": "This adds in syntax highlighting, will make it nicer to read in github",
+    "url": "https://api.github.com/repos/aave/aave-protocol/pulls/1",
+    "html_url": "https://github.com/aave/aave-protocol/pull/1",
+    "state": "closed",
+    "created_at": "2020-01-10T19:11:25Z",
+    "merged_at": "2020-11-11T10:17:35Z",
+    "user": {
+      "login": "mischat"
+    },
+    "labels": []
+  }
+]

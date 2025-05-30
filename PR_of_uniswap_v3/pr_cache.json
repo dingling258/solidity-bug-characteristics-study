@@ -1,0 +1,2990 @@
+[
+  {
+    "number": 629,
+    "title": "Fix code style issues with Prettier",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/629",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/629",
+    "state": "closed",
+    "created_at": "2023-03-16T19:39:12Z",
+    "merged_at": "2023-03-16T20:21:38Z",
+    "user": {
+      "login": "ewilz"
+    },
+    "labels": []
+  },
+  {
+    "number": 628,
+    "title": "add bsc chain",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/628",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/628",
+    "state": "closed",
+    "created_at": "2023-03-16T19:31:53Z",
+    "merged_at": "2023-03-16T20:24:31Z",
+    "user": {
+      "login": "ewilz"
+    },
+    "labels": []
+  },
+  {
+    "number": 571,
+    "title": "feat: add stale config",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/571",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/571",
+    "state": "closed",
+    "created_at": "2022-07-13T18:45:30Z",
+    "merged_at": "2022-07-13T18:48:04Z",
+    "user": {
+      "login": "marktoda"
+    },
+    "labels": []
+  },
+  {
+    "number": 557,
+    "title": "Dual license under GPL or BUSL",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/557",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/557",
+    "state": "closed",
+    "created_at": "2022-05-11T17:31:21Z",
+    "merged_at": "2022-05-11T17:41:04Z",
+    "user": {
+      "login": "NoahZinsmeister"
+    },
+    "labels": []
+  },
+  {
+    "number": 543,
+    "title": "first pass at 0.8.12",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/543",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/543",
+    "state": "closed",
+    "created_at": "2022-03-07T16:14:09Z",
+    "merged_at": "2022-03-07T18:33:07Z",
+    "user": {
+      "login": "NoahZinsmeister"
+    },
+    "labels": []
+  },
+  {
+    "number": 525,
+    "title": "Constrain FullMath pragma to <0.8.0",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/525",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/525",
+    "state": "closed",
+    "created_at": "2022-01-17T20:50:55Z",
+    "merged_at": "2022-01-26T20:54:24Z",
+    "user": {
+      "login": "wilsoncusack"
+    },
+    "labels": []
+  },
+  {
+    "number": 494,
+    "title": "Added 2 missing natspec params",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/494",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/494",
+    "state": "closed",
+    "created_at": "2021-09-16T18:13:27Z",
+    "merged_at": "2021-09-16T18:27:11Z",
+    "user": {
+      "login": "hensha256"
+    },
+    "labels": []
+  },
+  {
+    "number": 491,
+    "title": "feat: OVM",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/491",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/491",
+    "state": "closed",
+    "created_at": "2021-05-21T07:07:50Z",
+    "merged_at": "2021-06-11T14:23:01Z",
+    "user": {
+      "login": "gakonst"
+    },
+    "labels": []
+  },
+  {
+    "number": 488,
+    "title": "add liquidity after the swap to the pool swap event",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/488",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/488",
+    "state": "closed",
+    "created_at": "2021-05-04T16:35:43Z",
+    "merged_at": "2021-05-04T16:44:40Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 481,
+    "title": "add the cumulative tick to the tick",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/481",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/481",
+    "state": "closed",
+    "created_at": "2021-04-19T17:14:35Z",
+    "merged_at": "2021-04-19T21:29:03Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 475,
+    "title": "berlin gas numbers",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/475",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/475",
+    "state": "closed",
+    "created_at": "2021-04-16T02:18:57Z",
+    "merged_at": "2021-04-16T14:14:41Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 471,
+    "title": "view function for snapshots",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/471",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/471",
+    "state": "closed",
+    "created_at": "2021-04-15T19:21:24Z",
+    "merged_at": "2021-04-19T18:12:52Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 468,
+    "title": "make observe cheaper by not constructing a whole observation for which only 2 fields are used",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/468",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/468",
+    "state": "closed",
+    "created_at": "2021-04-12T19:50:39Z",
+    "merged_at": "2021-04-12T22:32:59Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 467,
+    "title": "accumulate seconds per liquidity instead of liquidity",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/467",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/467",
+    "state": "closed",
+    "created_at": "2021-04-12T14:52:08Z",
+    "merged_at": "2021-04-20T15:27:51Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 446,
+    "title": "optimize UnsafeMath#divRoundingUp",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/446",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/446",
+    "state": "closed",
+    "created_at": "2021-03-24T14:27:32Z",
+    "merged_at": "2021-03-31T18:30:03Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 441,
+    "title": "Abdk documentation issues",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/441",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/441",
+    "state": "closed",
+    "created_at": "2021-03-22T17:43:04Z",
+    "merged_at": "2021-03-22T19:18:27Z",
+    "user": {
+      "login": "Yorkemartin"
+    },
+    "labels": []
+  },
+  {
+    "number": 440,
+    "title": "adding bug bounty markdown",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/440",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/440",
+    "state": "closed",
+    "created_at": "2021-03-19T23:19:33Z",
+    "merged_at": "2021-03-22T04:44:19Z",
+    "user": {
+      "login": "snreynolds"
+    },
+    "labels": []
+  },
+  {
+    "number": 439,
+    "title": "add echidna + manticore tests",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/439",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/439",
+    "state": "closed",
+    "created_at": "2021-03-19T18:31:52Z",
+    "merged_at": "2021-03-19T20:57:52Z",
+    "user": {
+      "login": "rmi7"
+    },
+    "labels": []
+  },
+  {
+    "number": 438,
+    "title": "natspec loose ends",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/438",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/438",
+    "state": "closed",
+    "created_at": "2021-03-18T23:50:05Z",
+    "merged_at": "2021-03-22T16:19:49Z",
+    "user": {
+      "login": "Yorkemartin"
+    },
+    "labels": [
+      {
+        "id": 2603693129,
+        "node_id": "MDU6TGFiZWwyNjAzNjkzMTI5",
+        "url": "https://api.github.com/repos/Uniswap/v3-core/labels/documentation",
+        "name": "documentation",
+        "color": "36F1EC",
+        "default": true,
+        "description": ""
+      }
+    ]
+  },
+  {
+    "number": 437,
+    "title": "low gas balanceOf",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/437",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/437",
+    "state": "closed",
+    "created_at": "2021-03-18T21:23:25Z",
+    "merged_at": "2021-03-22T21:07:18Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": [
+      {
+        "id": 2220454876,
+        "node_id": "MDU6TGFiZWwyMjIwNDU0ODc2",
+        "url": "https://api.github.com/repos/Uniswap/v3-core/labels/gas%20golfing",
+        "name": "gas golfing",
+        "color": "e02f5e",
+        "default": false,
+        "description": "improve gas efficiency of contract"
+      }
+    ]
+  },
+  {
+    "number": 436,
+    "title": "optimize sloads in swap",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/436",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/436",
+    "state": "closed",
+    "created_at": "2021-03-12T19:09:58Z",
+    "merged_at": "2021-03-12T20:28:06Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 433,
+    "title": "add LICENSE and make associated changes",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/433",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/433",
+    "state": "closed",
+    "created_at": "2021-03-10T17:33:28Z",
+    "merged_at": "2021-03-22T00:27:20Z",
+    "user": {
+      "login": "NoahZinsmeister"
+    },
+    "labels": []
+  },
+  {
+    "number": 431,
+    "title": "start with all echidna tests",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/431",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/431",
+    "state": "closed",
+    "created_at": "2021-03-05T15:59:24Z",
+    "merged_at": "2021-03-05T15:59:36Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 430,
+    "title": "fix FullMath.sol mulDivRoundingUp bug",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/430",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/430",
+    "state": "closed",
+    "created_at": "2021-03-05T06:02:41Z",
+    "merged_at": "2021-03-05T16:46:08Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 428,
+    "title": "remove the delete in the position#update for the last burn of a position",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/428",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/428",
+    "state": "closed",
+    "created_at": "2021-03-01T16:03:33Z",
+    "merged_at": "2021-03-01T16:26:55Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 427,
+    "title": "Burn accounting tokens owed",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/427",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/427",
+    "state": "closed",
+    "created_at": "2021-02-27T23:21:57Z",
+    "merged_at": "2021-03-01T20:03:47Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 422,
+    "title": "save gas on balance0/balance1 calls",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/422",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/422",
+    "state": "closed",
+    "created_at": "2021-02-22T23:04:24Z",
+    "merged_at": "2021-02-22T23:16:58Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 421,
+    "title": "return values from swap",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/421",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/421",
+    "state": "closed",
+    "created_at": "2021-02-22T21:44:20Z",
+    "merged_at": "2021-02-22T23:02:16Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 419,
+    "title": "return values from mint",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/419",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/419",
+    "state": "closed",
+    "created_at": "2021-02-22T19:59:33Z",
+    "merged_at": "2021-02-22T22:02:10Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 414,
+    "title": "remove denominator check that never happens",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/414",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/414",
+    "state": "closed",
+    "created_at": "2021-02-18T15:07:29Z",
+    "merged_at": "2021-02-18T15:40:04Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": [
+      {
+        "id": 2603676033,
+        "node_id": "MDU6TGFiZWwyNjAzNjc2MDMz",
+        "url": "https://api.github.com/repos/Uniswap/v3-core/labels/bug",
+        "name": "bug",
+        "color": "B60205",
+        "default": true,
+        "description": "must be fixed"
+      }
+    ]
+  },
+  {
+    "number": 413,
+    "title": "change the fee options",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/413",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/413",
+    "state": "closed",
+    "created_at": "2021-02-18T14:55:08Z",
+    "merged_at": "2021-02-18T15:06:39Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 409,
+    "title": "remove the single seconds ago form",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/409",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/409",
+    "state": "closed",
+    "created_at": "2021-02-16T22:31:51Z",
+    "merged_at": "2021-02-16T23:26:22Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 408,
+    "title": "observe takes multiple seconds ago arguments",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/408",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/408",
+    "state": "closed",
+    "created_at": "2021-02-16T21:34:02Z",
+    "merged_at": "2021-02-17T03:22:00Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 405,
+    "title": "arbitrage example behavior test cases",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/405",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/405",
+    "state": "closed",
+    "created_at": "2021-02-15T16:42:19Z",
+    "merged_at": "2021-02-16T15:50:45Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 401,
+    "title": "Last todo",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/401",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/401",
+    "state": "closed",
+    "created_at": "2021-02-12T16:28:29Z",
+    "merged_at": "2021-02-12T18:13:34Z",
+    "user": {
+      "login": "NoahZinsmeister"
+    },
+    "labels": []
+  },
+  {
+    "number": 400,
+    "title": "remove todos",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/400",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/400",
+    "state": "closed",
+    "created_at": "2021-02-11T19:03:05Z",
+    "merged_at": "2021-02-12T16:24:45Z",
+    "user": {
+      "login": "NoahZinsmeister"
+    },
+    "labels": []
+  },
+  {
+    "number": 399,
+    "title": "add echidna test for mint invariant",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/399",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/399",
+    "state": "closed",
+    "created_at": "2021-02-11T18:44:14Z",
+    "merged_at": "2021-02-11T19:02:49Z",
+    "user": {
+      "login": "NoahZinsmeister"
+    },
+    "labels": []
+  },
+  {
+    "number": 398,
+    "title": "try packing via uint128",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/398",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/398",
+    "state": "closed",
+    "created_at": "2021-02-11T16:46:25Z",
+    "merged_at": "2021-02-11T17:45:25Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 395,
+    "title": "check 2 adjacent observations echidna test",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/395",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/395",
+    "state": "closed",
+    "created_at": "2021-02-10T23:34:03Z",
+    "merged_at": "2021-02-11T00:16:30Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 394,
+    "title": "take protocol fee in flash",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/394",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/394",
+    "state": "closed",
+    "created_at": "2021-02-10T22:04:28Z",
+    "merged_at": "2021-02-10T23:29:20Z",
+    "user": {
+      "login": "NoahZinsmeister"
+    },
+    "labels": [
+      {
+        "id": 2603676033,
+        "node_id": "MDU6TGFiZWwyNjAzNjc2MDMz",
+        "url": "https://api.github.com/repos/Uniswap/v3-core/labels/bug",
+        "name": "bug",
+        "color": "B60205",
+        "default": true,
+        "description": "must be fixed"
+      }
+    ]
+  },
+  {
+    "number": 392,
+    "title": "Natspec grammar and clarity",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/392",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/392",
+    "state": "closed",
+    "created_at": "2021-02-09T23:32:04Z",
+    "merged_at": "2021-02-10T22:42:41Z",
+    "user": {
+      "login": "Yorkemartin"
+    },
+    "labels": []
+  },
+  {
+    "number": 390,
+    "title": "rename scry -> observe",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/390",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/390",
+    "state": "closed",
+    "created_at": "2021-02-09T19:52:10Z",
+    "merged_at": "2021-02-10T23:21:10Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": [
+      {
+        "id": 2125960798,
+        "node_id": "MDU6TGFiZWwyMTI1OTYwNzk4",
+        "url": "https://api.github.com/repos/Uniswap/v3-core/labels/oracle",
+        "name": "oracle",
+        "color": "5319e7",
+        "default": false,
+        "description": "involves the accumulators"
+      },
+      {
+        "id": 2220478296,
+        "node_id": "MDU6TGFiZWwyMjIwNDc4Mjk2",
+        "url": "https://api.github.com/repos/Uniswap/v3-core/labels/user%20experience",
+        "name": "user experience",
+        "color": "0052cc",
+        "default": false,
+        "description": "improves experience of interacting with contracts"
+      },
+      {
+        "id": 2531399781,
+        "node_id": "MDU6TGFiZWwyNTMxMzk5Nzgx",
+        "url": "https://api.github.com/repos/Uniswap/v3-core/labels/blocked",
+        "name": "blocked",
+        "color": "e5a890",
+        "default": false,
+        "description": "cannot be fixed yet"
+      }
+    ]
+  },
+  {
+    "number": 388,
+    "title": "rewrite the function getNextSqrtPriceFromAmount0RoundingUp for small gas optimization/readability",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/388",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/388",
+    "state": "closed",
+    "created_at": "2021-02-09T16:47:19Z",
+    "merged_at": "2021-02-09T22:55:08Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 384,
+    "title": "Split fee protocol",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/384",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/384",
+    "state": "closed",
+    "created_at": "2021-02-08T16:09:37Z",
+    "merged_at": "2021-02-08T21:16:12Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 382,
+    "title": "collect protocol fees in swap",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/382",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/382",
+    "state": "closed",
+    "created_at": "2021-02-05T19:48:54Z",
+    "merged_at": "2021-02-08T15:34:50Z",
+    "user": {
+      "login": "NoahZinsmeister"
+    },
+    "labels": []
+  },
+  {
+    "number": 380,
+    "title": "IERC20 minimal comments",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/380",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/380",
+    "state": "closed",
+    "created_at": "2021-02-04T18:10:23Z",
+    "merged_at": "2021-02-05T01:12:10Z",
+    "user": {
+      "login": "Yorkemartin"
+    },
+    "labels": []
+  },
+  {
+    "number": 378,
+    "title": "Full math remco",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/378",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/378",
+    "state": "closed",
+    "created_at": "2021-02-04T14:38:19Z",
+    "merged_at": "2021-02-04T17:36:22Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 377,
+    "title": "Doc cleanups",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/377",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/377",
+    "state": "closed",
+    "created_at": "2021-02-04T01:12:26Z",
+    "merged_at": "2021-02-04T17:23:18Z",
+    "user": {
+      "login": "Yorkemartin"
+    },
+    "labels": []
+  },
+  {
+    "number": 376,
+    "title": "collapses sqrt tick math into tick math",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/376",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/376",
+    "state": "closed",
+    "created_at": "2021-02-02T22:20:10Z",
+    "merged_at": "2021-02-03T18:36:40Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 375,
+    "title": "try a echidna test for muldiv",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/375",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/375",
+    "state": "closed",
+    "created_at": "2021-02-02T21:26:40Z",
+    "merged_at": "2021-02-02T21:39:32Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 373,
+    "title": "Tick comments",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/373",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/373",
+    "state": "closed",
+    "created_at": "2021-02-02T21:00:43Z",
+    "merged_at": "2021-02-03T18:03:28Z",
+    "user": {
+      "login": "Yorkemartin"
+    },
+    "labels": []
+  },
+  {
+    "number": 372,
+    "title": "Remove some more revert reasons that are never hit, asserts -> reverts + todo",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/372",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/372",
+    "state": "closed",
+    "created_at": "2021-02-02T17:46:12Z",
+    "merged_at": "2021-02-02T21:01:49Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 371,
+    "title": "natspec that breaks the compiler",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/371",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/371",
+    "state": "closed",
+    "created_at": "2021-02-01T17:56:00Z",
+    "merged_at": "2021-02-08T15:35:57Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 369,
+    "title": "clean up events and add documentation",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/369",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/369",
+    "state": "closed",
+    "created_at": "2021-01-29T20:09:32Z",
+    "merged_at": "2021-01-29T21:33:58Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 367,
+    "title": "ux improvement for flash",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/367",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/367",
+    "state": "closed",
+    "created_at": "2021-01-29T18:23:56Z",
+    "merged_at": "2021-01-29T20:03:51Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": [
+      {
+        "id": 2220478296,
+        "node_id": "MDU6TGFiZWwyMjIwNDc4Mjk2",
+        "url": "https://api.github.com/repos/Uniswap/v3-core/labels/user%20experience",
+        "name": "user experience",
+        "color": "0052cc",
+        "default": false,
+        "description": "improves experience of interacting with contracts"
+      }
+    ]
+  },
+  {
+    "number": 366,
+    "title": "better safe math implementation",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/366",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/366",
+    "state": "closed",
+    "created_at": "2021-01-29T02:21:34Z",
+    "merged_at": "2021-01-29T17:32:26Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 365,
+    "title": "Oracle comments",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/365",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/365",
+    "state": "closed",
+    "created_at": "2021-01-28T21:20:48Z",
+    "merged_at": "2021-02-02T21:05:07Z",
+    "user": {
+      "login": "Yorkemartin"
+    },
+    "labels": []
+  },
+  {
+    "number": 364,
+    "title": "removes the allowance optimization in the test erc20",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/364",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/364",
+    "state": "closed",
+    "created_at": "2021-01-28T20:32:19Z",
+    "merged_at": "2021-01-28T20:44:23Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 363,
+    "title": "hand implement test erc20, remove oz erc20 dependency",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/363",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/363",
+    "state": "closed",
+    "created_at": "2021-01-28T20:13:49Z",
+    "merged_at": "2021-01-28T20:18:42Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 361,
+    "title": "clean up licenses",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/361",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/361",
+    "state": "closed",
+    "created_at": "2021-01-28T18:05:59Z",
+    "merged_at": "2021-01-28T18:17:26Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 360,
+    "title": "better interface for poking",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/360",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/360",
+    "state": "closed",
+    "created_at": "2021-01-28T17:18:49Z",
+    "merged_at": "2021-01-28T17:49:49Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 355,
+    "title": "first pass of some revert reasons that are not useful",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/355",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/355",
+    "state": "closed",
+    "created_at": "2021-01-28T00:29:03Z",
+    "merged_at": "2021-01-28T01:09:16Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": [
+      {
+        "id": 2220454876,
+        "node_id": "MDU6TGFiZWwyMjIwNDU0ODc2",
+        "url": "https://api.github.com/repos/Uniswap/v3-core/labels/gas%20golfing",
+        "name": "gas golfing",
+        "color": "e02f5e",
+        "default": false,
+        "description": "improve gas efficiency of contract"
+      }
+    ]
+  },
+  {
+    "number": 354,
+    "title": "Update Position.sol with natspec comments",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/354",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/354",
+    "state": "closed",
+    "created_at": "2021-01-28T00:13:48Z",
+    "merged_at": "2021-01-28T17:55:44Z",
+    "user": {
+      "login": "Yorkemartin"
+    },
+    "labels": []
+  },
+  {
+    "number": 353,
+    "title": "small oracle optimizations",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/353",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/353",
+    "state": "closed",
+    "created_at": "2021-01-28T00:00:25Z",
+    "merged_at": "2021-01-28T17:15:59Z",
+    "user": {
+      "login": "NoahZinsmeister"
+    },
+    "labels": []
+  },
+  {
+    "number": 352,
+    "title": "No delegate call opt",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/352",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/352",
+    "state": "closed",
+    "created_at": "2021-01-27T23:44:22Z",
+    "merged_at": "2021-01-27T23:44:27Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 347,
+    "title": "oracle fixes/opts",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/347",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/347",
+    "state": "closed",
+    "created_at": "2021-01-27T20:09:46Z",
+    "merged_at": "2021-01-27T23:07:31Z",
+    "user": {
+      "login": "NoahZinsmeister"
+    },
+    "labels": []
+  },
+  {
+    "number": 345,
+    "title": "add some scry tests",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/345",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/345",
+    "state": "closed",
+    "created_at": "2021-01-27T03:59:12Z",
+    "merged_at": "2021-01-27T23:11:50Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": [
+      {
+        "id": 2690288505,
+        "node_id": "MDU6TGFiZWwyNjkwMjg4NTA1",
+        "url": "https://api.github.com/repos/Uniswap/v3-core/labels/testing",
+        "name": "testing",
+        "color": "E37DA0",
+        "default": false,
+        "description": ""
+      }
+    ]
+  },
+  {
+    "number": 340,
+    "title": "cap tick spacing",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/340",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/340",
+    "state": "closed",
+    "created_at": "2021-01-26T19:57:16Z",
+    "merged_at": "2021-01-26T20:26:21Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 339,
+    "title": "no op grow",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/339",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/339",
+    "state": "closed",
+    "created_at": "2021-01-26T19:33:44Z",
+    "merged_at": "2021-01-26T19:38:38Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 336,
+    "title": "cheaper no delegate call",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/336",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/336",
+    "state": "closed",
+    "created_at": "2021-01-26T01:22:04Z",
+    "merged_at": "2021-01-26T13:35:17Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 333,
+    "title": "Collect opts",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/333",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/333",
+    "state": "closed",
+    "created_at": "2021-01-25T17:39:14Z",
+    "merged_at": "2021-01-25T17:40:17Z",
+    "user": {
+      "login": "NoahZinsmeister"
+    },
+    "labels": []
+  },
+  {
+    "number": 332,
+    "title": "remove min and max tick",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/332",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/332",
+    "state": "closed",
+    "created_at": "2021-01-25T17:36:52Z",
+    "merged_at": "2021-02-02T16:05:00Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": [
+      {
+        "id": 2156954143,
+        "node_id": "MDU6TGFiZWwyMTU2OTU0MTQz",
+        "url": "https://api.github.com/repos/Uniswap/v3-core/labels/refactoring",
+        "name": "refactoring",
+        "color": "d4c5f9",
+        "default": false,
+        "description": "make the code more readable"
+      },
+      {
+        "id": 2220478296,
+        "node_id": "MDU6TGFiZWwyMjIwNDc4Mjk2",
+        "url": "https://api.github.com/repos/Uniswap/v3-core/labels/user%20experience",
+        "name": "user experience",
+        "color": "0052cc",
+        "default": false,
+        "description": "improves experience of interacting with contracts"
+      }
+    ]
+  },
+  {
+    "number": 327,
+    "title": "prevent delegate call",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/327",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/327",
+    "state": "closed",
+    "created_at": "2021-01-23T15:42:14Z",
+    "merged_at": "2021-01-25T16:27:57Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 326,
+    "title": "squashes spaced tick bitmap into tick bitmap",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/326",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/326",
+    "state": "closed",
+    "created_at": "2021-01-23T02:30:18Z",
+    "merged_at": "2021-01-25T21:19:45Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 325,
+    "title": "optimize scry of 0",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/325",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/325",
+    "state": "closed",
+    "created_at": "2021-01-23T02:15:05Z",
+    "merged_at": "2021-01-25T16:32:35Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 323,
+    "title": "Update TransferHelper.sol with natspec comments",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/323",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/323",
+    "state": "closed",
+    "created_at": "2021-01-22T23:24:48Z",
+    "merged_at": "2021-01-25T16:31:46Z",
+    "user": {
+      "login": "Yorkemartin"
+    },
+    "labels": []
+  },
+  {
+    "number": 322,
+    "title": "seconds outside packed",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/322",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/322",
+    "state": "closed",
+    "created_at": "2021-01-22T23:01:01Z",
+    "merged_at": "2021-01-25T17:57:53Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 320,
+    "title": "inline overflow check",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/320",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/320",
+    "state": "closed",
+    "created_at": "2021-01-22T20:32:24Z",
+    "merged_at": "2021-01-22T21:06:51Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 319,
+    "title": "replace max types everywhere",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/319",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/319",
+    "state": "closed",
+    "created_at": "2021-01-22T19:01:27Z",
+    "merged_at": "2021-01-22T19:11:53Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 317,
+    "title": "Add tests close price boundaries",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/317",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/317",
+    "state": "closed",
+    "created_at": "2021-01-22T18:32:25Z",
+    "merged_at": "2021-01-22T18:36:55Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 315,
+    "title": "Fee variable packing",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/315",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/315",
+    "state": "closed",
+    "created_at": "2021-01-21T21:09:17Z",
+    "merged_at": "2021-01-22T18:45:15Z",
+    "user": {
+      "login": "NoahZinsmeister"
+    },
+    "labels": []
+  },
+  {
+    "number": 314,
+    "title": "comments for FixedPoint96, FixedPoint128, FullMath",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/314",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/314",
+    "state": "closed",
+    "created_at": "2021-01-21T20:56:40Z",
+    "merged_at": "2021-01-22T15:39:07Z",
+    "user": {
+      "login": "Yorkemartin"
+    },
+    "labels": []
+  },
+  {
+    "number": 313,
+    "title": "more tests, plus a fix in the pair to not send a transfer if no amount out is received",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/313",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/313",
+    "state": "closed",
+    "created_at": "2021-01-21T16:51:35Z",
+    "merged_at": "2021-01-21T18:44:31Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 312,
+    "title": "remove double div opt, which i think is exactly equivalent",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/312",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/312",
+    "state": "closed",
+    "created_at": "2021-01-21T16:18:33Z",
+    "merged_at": "2021-01-21T18:35:21Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 310,
+    "title": "Automate swap tests",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/310",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/310",
+    "state": "closed",
+    "created_at": "2021-01-21T06:05:04Z",
+    "merged_at": "2021-01-21T06:10:17Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 309,
+    "title": "fixes isMulSafe",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/309",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/309",
+    "state": "closed",
+    "created_at": "2021-01-21T02:35:37Z",
+    "merged_at": "2021-01-21T18:41:32Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 308,
+    "title": "move some functions around to where they belong",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/308",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/308",
+    "state": "closed",
+    "created_at": "2021-01-21T02:31:44Z",
+    "merged_at": "2021-01-21T02:34:03Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 306,
+    "title": "more tests, fix the overflow behavior",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/306",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/306",
+    "state": "closed",
+    "created_at": "2021-01-20T21:50:35Z",
+    "merged_at": "2021-01-20T23:55:16Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 305,
+    "title": "oracle tests and library clean up",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/305",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/305",
+    "state": "closed",
+    "created_at": "2021-01-19T15:12:21Z",
+    "merged_at": "2021-01-20T01:50:29Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 297,
+    "title": "remove allEnabledFeeAmounts",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/297",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/297",
+    "state": "closed",
+    "created_at": "2021-01-18T19:53:52Z",
+    "merged_at": "2021-01-20T23:05:40Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 296,
+    "title": "move some update position code to Position.sol",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/296",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/296",
+    "state": "closed",
+    "created_at": "2021-01-18T15:30:04Z",
+    "merged_at": "2021-01-18T20:03:46Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 294,
+    "title": "adjustable oracle observation cardinality",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/294",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/294",
+    "state": "closed",
+    "created_at": "2021-01-15T05:10:10Z",
+    "merged_at": "2021-01-18T18:45:54Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": [
+      {
+        "id": 2603683927,
+        "node_id": "MDU6TGFiZWwyNjAzNjgzOTI3",
+        "url": "https://api.github.com/repos/Uniswap/v3-core/labels/feature",
+        "name": "feature",
+        "color": "50E2A6",
+        "default": false,
+        "description": "a new feature of the core interface"
+      }
+    ]
+  },
+  {
+    "number": 293,
+    "title": "remove the constructor argument from the factory",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/293",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/293",
+    "state": "closed",
+    "created_at": "2021-01-15T03:24:28Z",
+    "merged_at": "2021-01-15T17:10:05Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 292,
+    "title": "split the pair interface for easy discoverability/consumption",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/292",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/292",
+    "state": "closed",
+    "created_at": "2021-01-15T01:21:42Z",
+    "merged_at": "2021-01-15T01:27:07Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 291,
+    "title": "move rest of code to oracle lib",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/291",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/291",
+    "state": "closed",
+    "created_at": "2021-01-14T23:36:55Z",
+    "merged_at": "2021-01-14T23:43:57Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 286,
+    "title": "consolidate to single swap function",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/286",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/286",
+    "state": "closed",
+    "created_at": "2021-01-14T14:57:39Z",
+    "merged_at": "2021-01-14T20:11:17Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 284,
+    "title": "Small opts",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/284",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/284",
+    "state": "closed",
+    "created_at": "2021-01-14T01:55:06Z",
+    "merged_at": "2021-01-14T14:45:11Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 281,
+    "title": "optimize majority of muldivs",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/281",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/281",
+    "state": "closed",
+    "created_at": "2021-01-13T18:26:51Z",
+    "merged_at": "2021-01-13T19:10:01Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 272,
+    "title": "adjustable protocol fees",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/272",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/272",
+    "state": "closed",
+    "created_at": "2021-01-08T21:53:16Z",
+    "merged_at": "2021-01-12T19:06:03Z",
+    "user": {
+      "login": "NoahZinsmeister"
+    },
+    "labels": []
+  },
+  {
+    "number": 271,
+    "title": "removes mint from initialize",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/271",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/271",
+    "state": "closed",
+    "created_at": "2021-01-07T23:31:08Z",
+    "merged_at": "2021-01-13T22:14:24Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": [
+      {
+        "id": 2220478296,
+        "node_id": "MDU6TGFiZWwyMjIwNDc4Mjk2",
+        "url": "https://api.github.com/repos/Uniswap/v3-core/labels/user%20experience",
+        "name": "user experience",
+        "color": "0052cc",
+        "default": false,
+        "description": "improves experience of interacting with contracts"
+      },
+      {
+        "id": 2603682055,
+        "node_id": "MDU6TGFiZWwyNjAzNjgyMDU1",
+        "url": "https://api.github.com/repos/Uniswap/v3-core/labels/verification",
+        "name": "verification",
+        "color": "5319e7",
+        "default": false,
+        "description": "verify properties of math or code"
+      }
+    ]
+  },
+  {
+    "number": 265,
+    "title": "moves more code to tick library",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/265",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/265",
+    "state": "closed",
+    "created_at": "2021-01-06T17:31:20Z",
+    "merged_at": "2021-01-06T20:32:11Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": [
+      {
+        "id": 2156954143,
+        "node_id": "MDU6TGFiZWwyMTU2OTU0MTQz",
+        "url": "https://api.github.com/repos/Uniswap/v3-core/labels/refactoring",
+        "name": "refactoring",
+        "color": "d4c5f9",
+        "default": false,
+        "description": "make the code more readable"
+      }
+    ]
+  },
+  {
+    "number": 264,
+    "title": "remove recover",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/264",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/264",
+    "state": "closed",
+    "created_at": "2021-01-06T15:21:33Z",
+    "merged_at": "2021-01-07T23:00:55Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": [
+      {
+        "id": 2531399781,
+        "node_id": "MDU6TGFiZWwyNTMxMzk5Nzgx",
+        "url": "https://api.github.com/repos/Uniswap/v3-core/labels/blocked",
+        "name": "blocked",
+        "color": "e5a890",
+        "default": false,
+        "description": "cannot be fixed yet"
+      }
+    ]
+  },
+  {
+    "number": 263,
+    "title": "add tick echidna test, do redundant owner check on creation to reduce bytecode size",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/263",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/263",
+    "state": "closed",
+    "created_at": "2021-01-06T03:21:11Z",
+    "merged_at": "2021-01-06T03:49:43Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 261,
+    "title": "clean up tests and make max liquidity per tick calculated",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/261",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/261",
+    "state": "closed",
+    "created_at": "2021-01-05T03:37:55Z",
+    "merged_at": "2021-01-05T21:51:32Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": [
+      {
+        "id": 2603676033,
+        "node_id": "MDU6TGFiZWwyNjAzNjc2MDMz",
+        "url": "https://api.github.com/repos/Uniswap/v3-core/labels/bug",
+        "name": "bug",
+        "color": "B60205",
+        "default": true,
+        "description": "must be fixed"
+      }
+    ]
+  },
+  {
+    "number": 260,
+    "title": "fix low intermediate liquidity bug",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/260",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/260",
+    "state": "closed",
+    "created_at": "2021-01-05T01:32:47Z",
+    "merged_at": "2021-01-05T23:08:07Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": [
+      {
+        "id": 2603676033,
+        "node_id": "MDU6TGFiZWwyNjAzNjc2MDMz",
+        "url": "https://api.github.com/repos/Uniswap/v3-core/labels/bug",
+        "name": "bug",
+        "color": "B60205",
+        "default": true,
+        "description": "must be fixed"
+      }
+    ]
+  },
+  {
+    "number": 258,
+    "title": "remove some asserts from the pair",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/258",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/258",
+    "state": "closed",
+    "created_at": "2021-01-04T23:08:19Z",
+    "merged_at": "2021-01-04T23:48:48Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 255,
+    "title": "moves more code from position into its own library",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/255",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/255",
+    "state": "closed",
+    "created_at": "2021-01-04T15:45:44Z",
+    "merged_at": "2021-01-05T00:59:27Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 254,
+    "title": "Multi hop router ",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/254",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/254",
+    "state": "closed",
+    "created_at": "2021-01-04T14:58:39Z",
+    "merged_at": "2021-01-26T19:07:00Z",
+    "user": {
+      "login": "Yorkemartin"
+    },
+    "labels": []
+  },
+  {
+    "number": 253,
+    "title": "various improvements to mint/withdraw/burn",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/253",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/253",
+    "state": "closed",
+    "created_at": "2021-01-02T03:03:34Z",
+    "merged_at": "2021-01-05T00:40:54Z",
+    "user": {
+      "login": "NoahZinsmeister"
+    },
+    "labels": []
+  },
+  {
+    "number": 252,
+    "title": "renames",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/252",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/252",
+    "state": "closed",
+    "created_at": "2021-01-02T02:11:59Z",
+    "merged_at": "2021-01-02T17:19:27Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 251,
+    "title": "add events",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/251",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/251",
+    "state": "closed",
+    "created_at": "2021-01-01T23:43:28Z",
+    "merged_at": "2021-01-02T17:01:58Z",
+    "user": {
+      "login": "NoahZinsmeister"
+    },
+    "labels": []
+  },
+  {
+    "number": 250,
+    "title": "remove all single member structs that have a gas overhead",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/250",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/250",
+    "state": "closed",
+    "created_at": "2020-12-31T22:36:37Z",
+    "merged_at": "2021-01-02T02:11:11Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 249,
+    "title": "remove the dependencies and copy them into the repo",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/249",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/249",
+    "state": "closed",
+    "created_at": "2020-12-31T22:05:44Z",
+    "merged_at": "2021-01-01T22:50:54Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 247,
+    "title": "fixed-length oracle array",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/247",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/247",
+    "state": "closed",
+    "created_at": "2020-12-31T18:33:21Z",
+    "merged_at": "2021-01-14T20:40:24Z",
+    "user": {
+      "login": "NoahZinsmeister"
+    },
+    "labels": [
+      {
+        "id": 2603683927,
+        "node_id": "MDU6TGFiZWwyNjAzNjgzOTI3",
+        "url": "https://api.github.com/repos/Uniswap/v3-core/labels/feature",
+        "name": "feature",
+        "color": "50E2A6",
+        "default": false,
+        "description": "a new feature of the core interface"
+      }
+    ]
+  },
+  {
+    "number": 246,
+    "title": "Flip bitmap order",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/246",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/246",
+    "state": "closed",
+    "created_at": "2020-12-31T01:50:04Z",
+    "merged_at": "2021-01-02T05:05:44Z",
+    "user": {
+      "login": "NoahZinsmeister"
+    },
+    "labels": []
+  },
+  {
+    "number": 245,
+    "title": "try out typed ticks",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/245",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/245",
+    "state": "closed",
+    "created_at": "2020-12-30T23:51:20Z",
+    "merged_at": "2020-12-31T19:44:59Z",
+    "user": {
+      "login": "NoahZinsmeister"
+    },
+    "labels": []
+  },
+  {
+    "number": 243,
+    "title": "flash",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/243",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/243",
+    "state": "closed",
+    "created_at": "2020-12-30T21:42:50Z",
+    "merged_at": "2021-01-19T19:51:26Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": [
+      {
+        "id": 2603683927,
+        "node_id": "MDU6TGFiZWwyNjAzNjgzOTI3",
+        "url": "https://api.github.com/repos/Uniswap/v3-core/labels/feature",
+        "name": "feature",
+        "color": "50E2A6",
+        "default": false,
+        "description": "a new feature of the core interface"
+      }
+    ]
+  },
+  {
+    "number": 242,
+    "title": "don't allow initialize outside of {MIN,MAX}_TICK",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/242",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/242",
+    "state": "closed",
+    "created_at": "2020-12-30T20:21:31Z",
+    "merged_at": "2020-12-30T20:30:07Z",
+    "user": {
+      "login": "NoahZinsmeister"
+    },
+    "labels": []
+  },
+  {
+    "number": 240,
+    "title": "allow 0 mints",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/240",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/240",
+    "state": "closed",
+    "created_at": "2020-12-29T22:25:56Z",
+    "merged_at": "2020-12-30T15:12:11Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 237,
+    "title": "Revert error codes",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/237",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/237",
+    "state": "closed",
+    "created_at": "2020-12-29T17:11:31Z",
+    "merged_at": "2020-12-30T17:07:46Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 236,
+    "title": "add lock to recover and collect",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/236",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/236",
+    "state": "closed",
+    "created_at": "2020-12-28T21:30:02Z",
+    "merged_at": "2020-12-28T21:36:17Z",
+    "user": {
+      "login": "NoahZinsmeister"
+    },
+    "labels": []
+  },
+  {
+    "number": 235,
+    "title": "fix bug",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/235",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/235",
+    "state": "closed",
+    "created_at": "2020-12-28T21:24:22Z",
+    "merged_at": "2020-12-28T21:30:47Z",
+    "user": {
+      "login": "NoahZinsmeister"
+    },
+    "labels": []
+  },
+  {
+    "number": 234,
+    "title": "support swap to price",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/234",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/234",
+    "state": "closed",
+    "created_at": "2020-12-28T20:41:11Z",
+    "merged_at": "2020-12-30T21:35:24Z",
+    "user": {
+      "login": "NoahZinsmeister"
+    },
+    "labels": []
+  },
+  {
+    "number": 229,
+    "title": "make the addresses computable onchain!",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/229",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/229",
+    "state": "closed",
+    "created_at": "2020-12-23T18:44:31Z",
+    "merged_at": "2020-12-28T16:34:52Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 227,
+    "title": "organize state variables into explicitly marked slots",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/227",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/227",
+    "state": "closed",
+    "created_at": "2020-12-23T00:04:52Z",
+    "merged_at": "2020-12-28T17:53:57Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 225,
+    "title": "remove all but 1 swap function",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/225",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/225",
+    "state": "closed",
+    "created_at": "2020-12-22T20:58:52Z",
+    "merged_at": "2020-12-22T21:40:34Z",
+    "user": {
+      "login": "NoahZinsmeister"
+    },
+    "labels": []
+  },
+  {
+    "number": 224,
+    "title": "Fix tick boundary issue",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/224",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/224",
+    "state": "closed",
+    "created_at": "2020-12-22T20:12:44Z",
+    "merged_at": "2020-12-29T17:07:08Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 223,
+    "title": "add data parameter to initialize/mint/swap callbacks",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/223",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/223",
+    "state": "closed",
+    "created_at": "2020-12-22T17:19:21Z",
+    "merged_at": "2020-12-22T20:23:11Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 217,
+    "title": "update the accumulator only when it needs to be updated",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/217",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/217",
+    "state": "closed",
+    "created_at": "2020-12-21T16:33:13Z",
+    "merged_at": "2020-12-22T16:28:50Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 212,
+    "title": "refactor swap math to avoid unnecessary asserts",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/212",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/212",
+    "state": "closed",
+    "created_at": "2020-12-18T00:24:41Z",
+    "merged_at": "2020-12-18T20:30:30Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 209,
+    "title": "move some tick code into tick library",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/209",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/209",
+    "state": "closed",
+    "created_at": "2020-12-16T20:06:18Z",
+    "merged_at": "2020-12-17T23:14:23Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 207,
+    "title": "Solc 0.7",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/207",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/207",
+    "state": "closed",
+    "created_at": "2020-12-16T19:34:06Z",
+    "merged_at": "2020-12-16T20:06:37Z",
+    "user": {
+      "login": "NoahZinsmeister"
+    },
+    "labels": []
+  },
+  {
+    "number": 202,
+    "title": "price math tweaks",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/202",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/202",
+    "state": "closed",
+    "created_at": "2020-12-14T21:34:54Z",
+    "merged_at": "2020-12-14T23:10:58Z",
+    "user": {
+      "login": "NoahZinsmeister"
+    },
+    "labels": []
+  },
+  {
+    "number": 200,
+    "title": "64x96 price",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/200",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/200",
+    "state": "closed",
+    "created_at": "2020-12-14T01:41:17Z",
+    "merged_at": "2020-12-14T20:35:42Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 198,
+    "title": "Tick math tweaks",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/198",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/198",
+    "state": "closed",
+    "created_at": "2020-12-11T16:59:41Z",
+    "merged_at": "2020-12-11T17:51:24Z",
+    "user": {
+      "login": "NoahZinsmeister"
+    },
+    "labels": []
+  },
+  {
+    "number": 194,
+    "title": "store and collect fees separately from updating positions (mint/burn/collectFees)",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/194",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/194",
+    "state": "closed",
+    "created_at": "2020-12-11T02:08:57Z",
+    "merged_at": "2020-12-11T20:35:58Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 193,
+    "title": "support exact output",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/193",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/193",
+    "state": "closed",
+    "created_at": "2020-12-10T22:54:20Z",
+    "merged_at": "2020-12-16T19:04:48Z",
+    "user": {
+      "login": "NoahZinsmeister"
+    },
+    "labels": []
+  },
+  {
+    "number": 189,
+    "title": "add collect",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/189",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/189",
+    "state": "closed",
+    "created_at": "2020-12-09T20:03:23Z",
+    "merged_at": "2020-12-14T21:31:37Z",
+    "user": {
+      "login": "NoahZinsmeister"
+    },
+    "labels": []
+  },
+  {
+    "number": 188,
+    "title": "use sqrt(price) directly",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/188",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/188",
+    "state": "closed",
+    "created_at": "2020-12-08T22:03:01Z",
+    "merged_at": "2020-12-11T14:37:21Z",
+    "user": {
+      "login": "NoahZinsmeister"
+    },
+    "labels": []
+  },
+  {
+    "number": 185,
+    "title": "use sqrt price math in swap",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/185",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/185",
+    "state": "closed",
+    "created_at": "2020-12-06T19:03:24Z",
+    "merged_at": "2020-12-08T16:48:28Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 184,
+    "title": "square root price math",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/184",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/184",
+    "state": "closed",
+    "created_at": "2020-12-06T17:15:57Z",
+    "merged_at": "2020-12-07T21:06:49Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 183,
+    "title": "use sqrt(price) instead of price",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/183",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/183",
+    "state": "closed",
+    "created_at": "2020-12-04T19:52:08Z",
+    "merged_at": "2020-12-11T15:24:39Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 181,
+    "title": "Spaced ticks",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/181",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/181",
+    "state": "closed",
+    "created_at": "2020-12-02T23:51:02Z",
+    "merged_at": "2020-12-07T15:18:36Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 179,
+    "title": "move some code into its own method",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/179",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/179",
+    "state": "closed",
+    "created_at": "2020-12-02T03:08:16Z",
+    "merged_at": "2020-12-02T22:23:34Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 178,
+    "title": "derive tickCurrent as needed",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/178",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/178",
+    "state": "closed",
+    "created_at": "2020-12-01T23:12:36Z",
+    "merged_at": "2020-12-03T00:16:56Z",
+    "user": {
+      "login": "NoahZinsmeister"
+    },
+    "labels": []
+  },
+  {
+    "number": 176,
+    "title": "compute feeToFees in setPosition",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/176",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/176",
+    "state": "closed",
+    "created_at": "2020-12-01T22:41:20Z",
+    "merged_at": "2020-12-02T00:08:40Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 173,
+    "title": "initialize at price instead of tick",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/173",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/173",
+    "state": "closed",
+    "created_at": "2020-12-01T04:10:09Z",
+    "merged_at": "2020-12-01T21:59:33Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 171,
+    "title": "more correct tick bitmap types",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/171",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/171",
+    "state": "closed",
+    "created_at": "2020-11-30T01:22:33Z",
+    "merged_at": "2020-12-01T00:11:38Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 170,
+    "title": "make tick math into contract",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/170",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/170",
+    "state": "closed",
+    "created_at": "2020-11-27T22:56:47Z",
+    "merged_at": "2020-11-30T23:06:39Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 169,
+    "title": "add the two accumulators and do some better packing",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/169",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/169",
+    "state": "closed",
+    "created_at": "2020-11-26T01:32:36Z",
+    "merged_at": "2020-11-30T19:21:10Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 168,
+    "title": "Ticks 24bit",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/168",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/168",
+    "state": "closed",
+    "created_at": "2020-11-25T19:48:19Z",
+    "merged_at": "2020-11-25T21:16:31Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 162,
+    "title": "adds the ability to enable fee options, renames fee to setter to owner",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/162",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/162",
+    "state": "closed",
+    "created_at": "2020-11-25T15:55:08Z",
+    "merged_at": "2020-11-25T18:42:24Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 161,
+    "title": "multipool",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/161",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/161",
+    "state": "closed",
+    "created_at": "2020-11-25T05:29:47Z",
+    "merged_at": "2020-11-25T18:42:33Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 158,
+    "title": "track gross liquidity instead of num positions",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/158",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/158",
+    "state": "closed",
+    "created_at": "2020-11-23T22:37:51Z",
+    "merged_at": "2020-11-23T23:39:47Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 154,
+    "title": "put liquidity current in the state and commit it at the end of the swap",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/154",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/154",
+    "state": "closed",
+    "created_at": "2020-11-21T18:31:49Z",
+    "merged_at": "2020-11-23T20:01:17Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 152,
+    "title": "change block timestamp to 64 bits",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/152",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/152",
+    "state": "closed",
+    "created_at": "2020-11-21T00:13:35Z",
+    "merged_at": "2020-11-21T17:28:03Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 146,
+    "title": "Uq128x128",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/146",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/146",
+    "state": "closed",
+    "created_at": "2020-11-20T21:32:05Z",
+    "merged_at": "2020-11-20T23:41:19Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 144,
+    "title": "use the tick bitmap in swap",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/144",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/144",
+    "state": "closed",
+    "created_at": "2020-11-20T19:16:05Z",
+    "merged_at": "2020-11-20T20:46:30Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 143,
+    "title": "add a library for computing the tick from a price using a binary search within a range",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/143",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/143",
+    "state": "closed",
+    "created_at": "2020-11-20T17:18:09Z",
+    "merged_at": "2020-11-20T19:10:06Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 140,
+    "title": "use _setPosition in initialize",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/140",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/140",
+    "state": "closed",
+    "created_at": "2020-11-19T22:52:52Z",
+    "merged_at": "2020-11-20T15:52:59Z",
+    "user": {
+      "login": "NoahZinsmeister"
+    },
+    "labels": []
+  },
+  {
+    "number": 137,
+    "title": "update fee votes",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/137",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/137",
+    "state": "closed",
+    "created_at": "2020-11-19T17:23:50Z",
+    "merged_at": "2020-11-19T17:56:22Z",
+    "user": {
+      "login": "NoahZinsmeister"
+    },
+    "labels": []
+  },
+  {
+    "number": 135,
+    "title": "use direct formulas for token{0,1} deltas",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/135",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/135",
+    "state": "closed",
+    "created_at": "2020-11-19T06:37:29Z",
+    "merged_at": "2020-11-19T17:59:52Z",
+    "user": {
+      "login": "NoahZinsmeister"
+    },
+    "labels": []
+  },
+  {
+    "number": 134,
+    "title": "Tick bit map",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/134",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/134",
+    "state": "closed",
+    "created_at": "2020-11-19T06:08:28Z",
+    "merged_at": "2020-11-19T20:08:41Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 133,
+    "title": "uint256 virtual reserves & constrain maximum liquidity",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/133",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/133",
+    "state": "closed",
+    "created_at": "2020-11-18T22:37:10Z",
+    "merged_at": "2020-11-19T03:02:06Z",
+    "user": {
+      "login": "NoahZinsmeister"
+    },
+    "labels": []
+  },
+  {
+    "number": 132,
+    "title": "remove the set position from initialize, have 1 liquidity min",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/132",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/132",
+    "state": "closed",
+    "created_at": "2020-11-18T18:49:56Z",
+    "merged_at": "2020-11-19T04:17:40Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 131,
+    "title": "bigger fee slots",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/131",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/131",
+    "state": "closed",
+    "created_at": "2020-11-18T17:12:30Z",
+    "merged_at": "2020-11-18T18:27:02Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 129,
+    "title": "dedupe some code",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/129",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/129",
+    "state": "closed",
+    "created_at": "2020-11-17T23:23:15Z",
+    "merged_at": "2020-11-18T02:49:22Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 128,
+    "title": "constrain ticks so each has a unique price",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/128",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/128",
+    "state": "closed",
+    "created_at": "2020-11-17T22:17:54Z",
+    "merged_at": "2020-11-17T23:14:58Z",
+    "user": {
+      "login": "NoahZinsmeister"
+    },
+    "labels": []
+  },
+  {
+    "number": 120,
+    "title": "change initialized to numPositions",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/120",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/120",
+    "state": "closed",
+    "created_at": "2020-11-15T07:37:41Z",
+    "merged_at": "2020-11-16T19:47:33Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 118,
+    "title": "derived reserves",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/118",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/118",
+    "state": "closed",
+    "created_at": "2020-11-12T22:18:16Z",
+    "merged_at": "2020-11-17T05:27:27Z",
+    "user": {
+      "login": "NoahZinsmeister"
+    },
+    "labels": []
+  },
+  {
+    "number": 117,
+    "title": "Fee tracking via tokens",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/117",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/117",
+    "state": "closed",
+    "created_at": "2020-11-05T21:41:14Z",
+    "merged_at": "2020-11-11T16:53:48Z",
+    "user": {
+      "login": "NoahZinsmeister"
+    },
+    "labels": []
+  },
+  {
+    "number": 114,
+    "title": "improve get amount out invariant",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/114",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/114",
+    "state": "closed",
+    "created_at": "2020-11-02T19:46:38Z",
+    "merged_at": "2020-11-02T19:48:58Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 113,
+    "title": "add echidna tests",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/113",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/113",
+    "state": "closed",
+    "created_at": "2020-11-02T17:31:37Z",
+    "merged_at": "2020-11-02T19:06:32Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 112,
+    "title": "optimizations for swap",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/112",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/112",
+    "state": "closed",
+    "created_at": "2020-11-02T17:31:19Z",
+    "merged_at": "2020-11-03T18:59:49Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 111,
+    "title": "change the interface in the callee for 2 swap methods",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/111",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/111",
+    "state": "closed",
+    "created_at": "2020-10-29T22:01:15Z",
+    "merged_at": "2020-10-29T22:28:59Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 110,
+    "title": "misc small refactors",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/110",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/110",
+    "state": "closed",
+    "created_at": "2020-10-29T20:22:56Z",
+    "merged_at": "2020-10-30T17:53:21Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 109,
+    "title": "Fix pair echidna test",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/109",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/109",
+    "state": "closed",
+    "created_at": "2020-10-28T15:54:23Z",
+    "merged_at": "2020-10-28T16:22:28Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 108,
+    "title": "dont use reciprocal",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/108",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/108",
+    "state": "closed",
+    "created_at": "2020-10-27T21:45:58Z",
+    "merged_at": "2020-10-29T19:38:38Z",
+    "user": {
+      "login": "NoahZinsmeister"
+    },
+    "labels": []
+  },
+  {
+    "number": 107,
+    "title": "move the amount out calculation to a pricemath method",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/107",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/107",
+    "state": "closed",
+    "created_at": "2020-10-27T18:09:28Z",
+    "merged_at": "2020-10-27T20:21:21Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 105,
+    "title": "combine changes",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/105",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/105",
+    "state": "closed",
+    "created_at": "2020-10-27T16:11:12Z",
+    "merged_at": "2020-10-27T16:19:06Z",
+    "user": {
+      "login": "NoahZinsmeister"
+    },
+    "labels": []
+  },
+  {
+    "number": 104,
+    "title": "fix the price math to always return an amount in that equals or exceeds the target inOutRatio",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/104",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/104",
+    "state": "closed",
+    "created_at": "2020-10-27T16:01:17Z",
+    "merged_at": "2020-10-27T16:43:36Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 99,
+    "title": "show failing case",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/99",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/99",
+    "state": "closed",
+    "created_at": "2020-10-23T22:48:46Z",
+    "merged_at": "2020-10-23T23:06:35Z",
+    "user": {
+      "login": "NoahZinsmeister"
+    },
+    "labels": []
+  },
+  {
+    "number": 98,
+    "title": "more robust price math testing + add incomplete pair echidna test",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/98",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/98",
+    "state": "closed",
+    "created_at": "2020-10-23T18:51:25Z",
+    "merged_at": "2020-10-27T15:43:51Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 95,
+    "title": "add price asserts",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/95",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/95",
+    "state": "closed",
+    "created_at": "2020-10-23T15:36:15Z",
+    "merged_at": "2020-10-23T18:12:36Z",
+    "user": {
+      "login": "NoahZinsmeister"
+    },
+    "labels": []
+  },
+  {
+    "number": 94,
+    "title": "fix echidna test",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/94",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/94",
+    "state": "closed",
+    "created_at": "2020-10-23T01:12:59Z",
+    "merged_at": "2020-10-23T01:19:55Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 93,
+    "title": "slightly improve state of TODOs",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/93",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/93",
+    "state": "closed",
+    "created_at": "2020-10-22T22:23:13Z",
+    "merged_at": "2020-10-23T02:43:38Z",
+    "user": {
+      "login": "NoahZinsmeister"
+    },
+    "labels": []
+  },
+  {
+    "number": 92,
+    "title": "fix static analysis check",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/92",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/92",
+    "state": "closed",
+    "created_at": "2020-10-22T20:10:24Z",
+    "merged_at": "2020-10-23T00:38:11Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 90,
+    "title": "bump lib",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/90",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/90",
+    "state": "closed",
+    "created_at": "2020-10-22T15:05:34Z",
+    "merged_at": "2020-10-22T20:45:19Z",
+    "user": {
+      "login": "NoahZinsmeister"
+    },
+    "labels": []
+  },
+  {
+    "number": 89,
+    "title": "fix static analysis check",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/89",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/89",
+    "state": "closed",
+    "created_at": "2020-10-21T19:14:19Z",
+    "merged_at": "2020-10-22T18:51:09Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 86,
+    "title": "misc. changes",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/86",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/86",
+    "state": "closed",
+    "created_at": "2020-10-21T16:27:36Z",
+    "merged_at": "2020-10-21T21:51:44Z",
+    "user": {
+      "login": "NoahZinsmeister"
+    },
+    "labels": []
+  },
+  {
+    "number": 83,
+    "title": "callback for payment",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/83",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/83",
+    "state": "closed",
+    "created_at": "2020-10-21T15:25:53Z",
+    "merged_at": "2020-12-15T22:36:39Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 82,
+    "title": "full precision swap math",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/82",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/82",
+    "state": "closed",
+    "created_at": "2020-10-21T02:15:13Z",
+    "merged_at": "2020-10-21T19:11:32Z",
+    "user": {
+      "login": "NoahZinsmeister"
+    },
+    "labels": []
+  },
+  {
+    "number": 81,
+    "title": "add more feeTo tests",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/81",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/81",
+    "state": "closed",
+    "created_at": "2020-10-20T17:05:55Z",
+    "merged_at": "2020-10-21T22:05:09Z",
+    "user": {
+      "login": "NoahZinsmeister"
+    },
+    "labels": []
+  },
+  {
+    "number": 80,
+    "title": "fee to in pair",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/80",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/80",
+    "state": "closed",
+    "created_at": "2020-10-20T15:02:39Z",
+    "merged_at": "2020-10-20T19:16:59Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 79,
+    "title": "recover erc20",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/79",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/79",
+    "state": "closed",
+    "created_at": "2020-10-20T14:33:33Z",
+    "merged_at": "2020-10-20T19:05:06Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 77,
+    "title": "remove the safemath libraries that may be causing the static analysis…",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/77",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/77",
+    "state": "closed",
+    "created_at": "2020-10-16T22:30:14Z",
+    "merged_at": "2020-10-19T21:54:05Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 76,
+    "title": "WIP - Bump lib",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/76",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/76",
+    "state": "closed",
+    "created_at": "2020-10-15T21:25:01Z",
+    "merged_at": "2020-10-19T19:29:13Z",
+    "user": {
+      "login": "NoahZinsmeister"
+    },
+    "labels": []
+  },
+  {
+    "number": 75,
+    "title": "bips instead of pips",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/75",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/75",
+    "state": "closed",
+    "created_at": "2020-10-13T20:12:09Z",
+    "merged_at": "2020-10-15T19:46:15Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 72,
+    "title": "implement swap1For0",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/72",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/72",
+    "state": "closed",
+    "created_at": "2020-10-09T02:56:21Z",
+    "merged_at": "2020-10-09T19:45:55Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 71,
+    "title": "fix getCumulativePrices, use mock time for easier testing",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/71",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/71",
+    "state": "closed",
+    "created_at": "2020-09-29T21:53:22Z",
+    "merged_at": "2020-09-30T17:38:50Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 70,
+    "title": "Moody/fee options array",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/70",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/70",
+    "state": "closed",
+    "created_at": "2020-09-28T17:00:17Z",
+    "merged_at": "2020-09-29T17:08:51Z",
+    "user": {
+      "login": "moodysalem"
+    },
+    "labels": []
+  },
+  {
+    "number": 67,
+    "title": "add ABDK code - WiP",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/67",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/67",
+    "state": "closed",
+    "created_at": "2020-09-01T15:20:55Z",
+    "merged_at": "2020-10-02T20:36:52Z",
+    "user": {
+      "login": "NoahZinsmeister"
+    },
+    "labels": []
+  },
+  {
+    "number": 66,
+    "title": "test: refactor feeTo test",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/66",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/66",
+    "state": "closed",
+    "created_at": "2020-09-01T13:46:36Z",
+    "merged_at": "2020-09-01T14:53:08Z",
+    "user": {
+      "login": "gakonst"
+    },
+    "labels": []
+  },
+  {
+    "number": 65,
+    "title": "feat: update global fee at the beginning of a block",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/65",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/65",
+    "state": "closed",
+    "created_at": "2020-09-01T08:44:13Z",
+    "merged_at": "2020-10-07T15:14:20Z",
+    "user": {
+      "login": "gakonst"
+    },
+    "labels": []
+  },
+  {
+    "number": 64,
+    "title": "feat: use buidler instead of Waffle",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/64",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/64",
+    "state": "closed",
+    "created_at": "2020-09-01T07:51:14Z",
+    "merged_at": "2020-10-02T20:49:34Z",
+    "user": {
+      "login": "gakonst"
+    },
+    "labels": []
+  },
+  {
+    "number": 63,
+    "title": "add protocol liquidity logic",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/63",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/63",
+    "state": "closed",
+    "created_at": "2020-08-25T19:18:16Z",
+    "merged_at": "2020-09-30T22:42:47Z",
+    "user": {
+      "login": "NoahZinsmeister"
+    },
+    "labels": []
+  },
+  {
+    "number": 60,
+    "title": "fix virtual supplies",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/60",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/60",
+    "state": "closed",
+    "created_at": "2020-08-22T21:02:46Z",
+    "merged_at": "2020-09-29T21:13:22Z",
+    "user": {
+      "login": "danrobinson"
+    },
+    "labels": []
+  },
+  {
+    "number": 59,
+    "title": "feat: increase FeeVotes to 6",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/59",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/59",
+    "state": "closed",
+    "created_at": "2020-08-21T18:43:50Z",
+    "merged_at": "2020-08-24T18:33:54Z",
+    "user": {
+      "login": "gakonst"
+    },
+    "labels": []
+  },
+  {
+    "number": 54,
+    "title": "fix comment",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/54",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/54",
+    "state": "closed",
+    "created_at": "2020-08-13T15:30:14Z",
+    "merged_at": "2020-08-20T21:28:18Z",
+    "user": {
+      "login": "danrobinson"
+    },
+    "labels": []
+  },
+  {
+    "number": 51,
+    "title": "feat: counterfactual read price",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/51",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/51",
+    "state": "closed",
+    "created_at": "2020-08-10T16:45:12Z",
+    "merged_at": "2020-08-24T18:24:12Z",
+    "user": {
+      "login": "gakonst"
+    },
+    "labels": []
+  },
+  {
+    "number": 50,
+    "title": "LPs, Fees & removal of liquidity",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/50",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/50",
+    "state": "closed",
+    "created_at": "2020-08-10T11:57:45Z",
+    "merged_at": "2020-08-25T16:47:32Z",
+    "user": {
+      "login": "gakonst"
+    },
+    "labels": []
+  },
+  {
+    "number": 43,
+    "title": "Median fee voting",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/43",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/43",
+    "state": "closed",
+    "created_at": "2020-08-04T14:59:14Z",
+    "merged_at": "2020-08-04T18:12:13Z",
+    "user": {
+      "login": "NoahZinsmeister"
+    },
+    "labels": []
+  },
+  {
+    "number": 22,
+    "title": "Add prototype of fee voting",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/22",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/22",
+    "state": "closed",
+    "created_at": "2020-06-19T23:53:28Z",
+    "merged_at": "2020-06-20T21:39:37Z",
+    "user": {
+      "login": "danrobinson"
+    },
+    "labels": []
+  },
+  {
+    "number": 15,
+    "title": "remove limit orders; add bounded liquidity",
+    "url": "https://api.github.com/repos/Uniswap/v3-core/pulls/15",
+    "html_url": "https://github.com/Uniswap/v3-core/pull/15",
+    "state": "closed",
+    "created_at": "2020-06-13T22:07:04Z",
+    "merged_at": "2020-06-17T21:40:12Z",
+    "user": {
+      "login": "danrobinson"
+    },
+    "labels": []
+  }
+]
