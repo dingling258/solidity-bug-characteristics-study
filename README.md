@@ -1,4 +1,4 @@
-# An Empirical Study on Bug Characteristics in Solidity Smart Contracts
+# Understanding and Characterizing Bugs in Solidity Smart Contract Development
 
 ## Abstract
 This repository contains the data collection scripts, analytical tools, and findings from our empirical study of bug characteristics in Solidity smart contracts. We analyzed 115 bug fixes from the OpenZeppelin library and other major DeFi protocols, revealing common patterns and categories of defects that occur in smart contract development.
